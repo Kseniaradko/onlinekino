@@ -1,1 +1,1 @@
-# onlinekino
+# onlinekino - учебный проект по созданию сайта
